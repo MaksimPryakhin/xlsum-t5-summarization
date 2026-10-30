@@ -1,0 +1,11 @@
+data/
+models/
+*.pt
+*.safetensors
+*.bin
+*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+!reports/final_results.csv 
